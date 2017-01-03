@@ -1,0 +1,133 @@
+,age,day,month,name,year
+0,89,15,1,Ruth Warrick,2005
+1,84,17,1,Virginia Mayo,2005
+2,86,22,1,Rose Mary Woods,2005
+3,79,23,1,Johnny Carson,2005
+4,69,25,1,Ray Peterson,2005
+5,72,1,2,John Vernon,2005
+6,87,4,2,Ossie Davis,2005
+7,57,8,2,Keith Knudsen,2005
+8,89,10,2,Arthur Miller,2005
+9,62,12,2,Jewel &#8220;Sammi&#8221; Smith,2005
+10,73,14,2,Brian Kelly,2005
+11,62,20,2,Sandra Dee,2005
+12,67,20,2,Hunter S. Thompson,2005
+13,88,20,2,John Raitt,2005
+14,86,6,3,Teresa Wright,2005
+15,80,19,3,John DeLorean,2005
+16,80,21,3,Bobby Short,2005
+17,67,29,3,Johnnie Cochran,2005
+18,37,30,3,Mitch Hedberg,2005
+19,41,31,3,Terri Schiavo,2005
+20,84,1,4,Frank Perdue,2005
+21,84,2,4,Pope John Paul II,2005
+22,98,5,4,Dale Messick,2005
+23,89,5,4,Saul Bellow,2005
+24,81,6,4,Prince Rainier III,2005
+25,93,19,4,Ruth Hussey,2005
+26,71,19,4,Rick Lewis,2005
+27,80,22,4,Norman Bird,2005
+28,97,23,4,Sir John Mills,2005
+29,86,26,4,Mason Adams,2005
+30,78,29,4,William J. Bell,2005
+31,92,30,4,Sherman Loudermilk,2005
+32,95,7,5,Peter Rodino,2005
+33,72,17,5,Frank Gorshin,2005
+34,83,20,5,J.D. Cannon,2005
+35,85,21,5,Howard Morris,2005
+36,91,22,5,Thurl Ravenscroft,2005
+37,68,25,5,Ismail Merchant,2005
+38,97,26,5,Eddie Albert,2005
+39,80,1,6,George Mikan,2005
+40,97,3,6,Leon Askin,2005
+41,ks,6,6,Anne Bancroft,2005
+42,77,6,6,Dana Elcar,2005
+43,82,11,6,Lon McCallister,2005
+44,69,13,6,Lane Smith,2005
+45,78,18,6,Georgie Wood,2005
+46,79,23,6,Shana Alexander,2005
+47,82,24,6,Paul Winchell,2005
+48,80,25,6,John Fieldler,2005
+49,88,27,6,Shelby Foote,2005
+50,58,27,6,John Walton,2005
+51,54,1,7,Luther Vandross,2005
+52,69,2,7,Obie Benson,2005
+53,89,2,7,Ernest Lehman,2005
+54,82,4,7,Hank Stram,2005
+55,79,4,7,June Haver,2005
+56,88,5,7,L. Patrick Gray,2005
+57,81,5,7,Retired Vice Adm. James Stockdale,2005
+58,77,9,7,Kevin Hagen,2005
+59,92,11,7,Frances Langford,2005
+60,91,17,7,Geraldine Fitzgerald,2005
+61,91,18,7,Ret. Gen. William Westmoreland,2005
+62,85,20,7,James Doohan,2005
+63,84,31,7,King Fahd,2005
+64,78,6,8,Ibrahim Ferrer,2005
+65,67,7,8,Peter Jennings,2005
+66,82,8,8,Barbara Bel Geddes,2005
+67,87,8,8,John H. Johnson,2005
+68,70,9,8,Judith Rossner,2005
+69,8.,23,8,Brock Peters,2005
+70,70,2,9,Bob Denver,2005
+71,80,3,9,William Rehnquist,2005
+72,82,11,9,Chris Schenkel,2005
+73,91,14,9,Robert Wise,2005
+74,96,20,9,Simon Wiesenthal,2005
+75,82,25,9,Don Adams,2005
+76,69,25,9,M. Scott Peck,2005
+77,60,2,10,August Wilson,2005
+78,80,2,10,Nipsey Russell,2005
+79,92,24,10,Rosa Parks,2005
+80,87,31,10,Skitch Henderson,2005
+81,57,1,11,Michael Piller,2005
+82,92,13,11,Eddie Guerrero,2005
+83,78,21,11,Ruth Siems,2005
+84,73,24,11,Ralph Edwards,2005
+85,82,26,11,Hugh Side,2005
+86,46,29,11,Pat Morita,2005
+87,65,10,12,Stan Berenstain,2005
+88,89,10,12,Wendie Jo Sperber,2005
+89,90,15,12,Richard Pryor,2005
+90,58,16,12,Eugene McCarthy,2005
+91,83,17,12,William Proxmire,2005
+92,83,24,12,John Spencer,2005
+93,57,26,12,Jack Anderson,2005
+94,72,6,1,Lou Rawls,2006
+95,85,14,1,Shelley Winters,2006
+96,64,19,1,Wilson Pickett,2006
+97,77,19,1,Anthony Franciosa,2006
+98,40,24,1,Coretta Scott King,2006
+99,78,30,1,Al Lewis,2006
+100,82,3,2,Betty Friedan,2006
+101,85,4,2,Peter Benchley,2006
+102,65,12,2,Andreas Katsulas,2006
+103,59,13,2,William Cowsill,2006
+104,58,18,2,Richard Bright,2006
+105,68,18,2,Curt Gowdy,2006
+106,86,20,2,Don Knotts,2006
+107,81,24,2,Dennis Weaver,2006
+108,81,24,2,Darren McGavin,2006
+109,83,25,2,Kirby Puckett,2006
+110,44,6,3,Dana Reeve,2006
+111,44,6,3,Slobodan Milosevic,2006
+112,64,11,3,Maureen Stapleton,2006
+113,80,13,3,Buck Owens,2006
+114,76,26,3,Richard Fleischer,2006
+115,89,25,3,Paul Dana,2006
+116,30,26,3,Caspar Weinberger,2006
+117,88,28,3,Gene Pitney,2006
+118,65,5,4,Scott Brazil,2006
+119,50,17,4,Louis Rukeyser,2006
+120,73,2,5,Earl Woods,2006
+121,74,3,5,Floyd Patterson,2006
+122,71,11,5,Lew Anderson,2006
+123,84,14,5,Lloyd Bentsen,2006
+124,85,23,5,Paul Gleason,2006
+125,67,27,5,Robert Sterling,2006
+126,88,30,5,Vince Welnick,2006
+127,51,2,6,Billy Preston,2006
+128,59,6,6,Claydes Charles Smith,2006
+129,57,20,6,Aaron Spelling,2006
+130,83,23,6,Patsy Ramsey,2006
+131,49,24,6,Moose,2006
