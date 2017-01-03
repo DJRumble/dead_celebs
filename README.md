@@ -26,3 +26,18 @@ Data will be nee to be extracted from the websites HTML. This will allow for the
 
 This data spans 2000 to 2017, though format does change across the course of the website (which is not helpful). 
 
+# Celeberity status
+
+James Ball notes - "how did you define a celebrity death? How much of a celebrity does someone need to be for them to be counted?"
+
+In this project I am totally reliant on http://fiftiesweb.com/ for this deffinition. This is an American website and is likily to be biased thusly.
+On thier website they appear to provide two lists of major, and all celeberity deaths.
+
+Some suggestions for alternative methods:
+
+- twitter - count the tweet mentions of a celeberity the week following thier death (problematic for those celebs not on Twitter).
+- Obituaries - count the length of thier obituary in a news paper (subject to newspaper bias and requiring NLP).
+
+
+
+
