@@ -13,7 +13,7 @@ Can this be proven using the data? And is it possible to model the rates of cele
 
 The primary data source for this project is the website: http://fiftiesweb.com/dead/dead-people-2006/
 
-I leave the deffinition of what makes a person a celeberity to this website. 
+I leave the deffinition of what makes a person a Celebrity to this website. 
 
 Data will be nee to be extracted from the websites HTML. This will allow for the following features:
 
