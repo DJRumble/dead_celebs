@@ -1,6 +1,6 @@
 # Dead Celebrities
 
-2016 has seen a unparreleled levels of 'celebrity deaths' leading some people to hail it hyperbollically as the 'worst year ever'. 
+2016 has seen a unparalleled levels of 'celebrity deaths' leading some people to hail it hyperbolically as the 'worst year ever'. 
 Is it true that the number of celebrity deaths has increased in 2016 relative to previous years. 
 
 Henry Hartigen notes that, "as we move through the years, the number of 'celebs' in general increases due to the globalisation of 
